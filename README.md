@@ -7,8 +7,8 @@ It's meant to be a place for anything and everything; like a backup of any files
 Overtime, school files and assignments will be less likely to appear on this repo, and all that should be left is the actual programming files.
 
 This application requires the following:
-1. Python 3.10
-2. 'pip install requests'
+1. Install Python 3.10.
+2. Once python 3 is installed run the following command 'pip install requests'.
 
 # How To Use The P.A.C. M.A.N. Project
 1. Download the .zip file of the project and save it wherever you want.
