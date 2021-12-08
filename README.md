@@ -8,7 +8,7 @@ Overtime, school files and assignments will be less likely to appear on this rep
 
 # How To Use The P.A.C. M.A.N. Project
 1. Download the .zip file of the project and save it wherever you want.
-2. Unzip the project, and then move your .pcap file into the *same directory as the executable*
+2. Unzip the project, and then move your .pcap file into the *same directory as the executable* (PACMAN/PACMAN/bin/Debug).
 3. Run the executable (it is pretty self-explanatory)
 4. Screens 1 and 2 are just the title page and the project contributors. Screen 3 is the important one.
 5. Enter all of the **required** information, as well as any other information you desire.
