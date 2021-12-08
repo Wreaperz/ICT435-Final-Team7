@@ -9,7 +9,7 @@ Overtime, school files and assignments will be less likely to appear on this rep
 This application requires the following:
 1. Python 3.10
 2. 'pip install requests'
-3. 
+
 # How To Use The P.A.C. M.A.N. Project
 1. Download the .zip file of the project and save it wherever you want.
 2. Unzip the project, and then move your .pcap file into the *same directory as the executable* (PACMAN/PACMAN/bin/Debug).
